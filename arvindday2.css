@@ -1,0 +1,80 @@
+ul{
+	background-color: white;
+	margin:-10px;
+	list-style: none;
+	padding: 15px;
+	overflow: hidden;
+	background-attachment: fixed;
+	background-position: fixed;
+
+}
+body{
+	background-color: 
+	width:100;
+	    height: 100;
+
+
+}
+html{
+	width:100;
+	height:100;
+}
+li a{
+	text-decoration: none;
+	padding: 20px;
+}
+li{
+	float:left;
+}
+li{
+float: left;
+}
+li a:hover{
+	color:
+	background-color:;
+}
+.harry potter
+{
+	border:double;
+	color:;
+	/*display:none;*/
+}
+.aravind0{
+	background-image: url("jungle.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	width:100;
+	height: 100;
+}
+.arvind1{
+	background-image: url("narnia.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	width:100;
+	height: 100;
+}
+.arvind2{
+	background-image:url("poker.jpg");
+	background-attachment: fixed;
+	background-repeat:no-repeat;
+	background-position: center;
+	width: 100;
+	height: 100;
+}
+.arvind3{
+	background-image:url("bikes.jpg")
+	background-repeat:no-repeat;
+	background-position: center;
+	width: 100;
+	height: 100;
+}
+.arvind4{
+	background-image: url("cars.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 100;
+	height: 100;
+}
